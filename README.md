@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 Passionate front-end developer with proficiency in building complex and performant front-end applications using JavaScript and React and giving life to designs with an obsession of making user-focused and pixel-perfect UIs. I take responsibility for crafting a good user experience using modern front-end architecture. Completed under graduation from Presidency University with a GPA of 9.2. Comfortable working with, HTML5, CSS3, JavaScript, React, Redux, Firebase, Python, Java.
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -35,7 +35,7 @@ Passionate front-end developer with proficiency in building complex and performa
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashJain24-chief&theme=dark&background=000000)](https://git.io/streak-stats)

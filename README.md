@@ -15,7 +15,7 @@
 </div>
 
 ### :man_technologist: About Me :
-Passionate front-end developer with proficiency in building complex and performant front-end applications using JavaScript and React and giving life to designs with an obsession of making user-focused and pixel-perfect UIs. I take responsibility for crafting a good user experience using modern front-end architecture. Completed under graduation from Presidency University. Comfortable working with, HTML5, CSS3, JavaScript, React, Redux, Firebase, Python, Java.
+Passionate front-end developer with proficiency in building complex and performant front-end applications using JavaScript and React and giving life to designs with an obsession of making user-focused and pixel-perfect UIs. I take responsibility for crafting a good user experience using modern front-end architecture. Completed under graduation from Presidency University. Comfortable working with, HTML5, CSS3, JavaScript, React, Redux, Firebase, Python.
 
 
 ### :hammer_and_wrench: Languages and Tools :
